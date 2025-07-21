@@ -6,7 +6,7 @@
 - 🎯 目標: 技術・デザインで理不尽な死を無くす
 - 💻 言語: Python, C++, C#, JavaScript
 - 🛠️ ツール: ROS, Unity, Rhinoceros, Grasshopper, Genesis
-  ******
+
 
   ## Hi! There👋
 - 🎓 Graduate Student at The University of Tokyo | Architecture & Computational Mechanics
