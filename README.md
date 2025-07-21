@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**KMYsqHRK/KMYsqHRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🎓 東京大学大学院 建築学専攻 | 建築計算力学研究室
 🔬 研究: MPS法による流体構造連成シミュレーション
 🏗️ 関心分野: 建築、ロボティクス、ワークショップデザイン
@@ -19,4 +14,4 @@ Here are some ideas to get you started:
 🎯 Mission: Eliminating unreasonable deaths through technology and design
 💻 Languages: Python, C++, C#, JavaScript
 🛠️ Tools: ROS, Unity, Rhinoceros, Grasshopper, Genesis
--->
+
